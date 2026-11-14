@@ -16,7 +16,7 @@ INTEGRANTES DEL GRUPO:
 
 - [C] Cliver Cabrera — Encargado de Ejercicios 2, 4 y 6
 
-- [L] Leonel — Encargado de Ejercicios 7, 8 y 9
+- [L] Leonel Alessandro Rodriguez— Encargado de Ejercicios 7, 8 y 9
 
 - [M / C / L] Colaborativo — Integración en Ejercicio 10 y pruebas cruzadas
 
