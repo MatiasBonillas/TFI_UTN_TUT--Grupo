@@ -4,4 +4,4 @@
 ## Integrantes
 - Matías Bonillas
 - Cliver Cabrera
-- Leonel [Apellido completo]
+- Leonel Alessandro Rodriguez
